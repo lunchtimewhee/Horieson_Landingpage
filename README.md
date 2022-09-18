@@ -1,4 +1,4 @@
-# Challenge 1 -- 
+# Challenge 1
 
 ## **User Story**
 
@@ -26,5 +26,5 @@ Implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
-(./assets/image-1.png)
+! (./assets/image-1.png)
 

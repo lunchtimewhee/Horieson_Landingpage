@@ -27,4 +27,4 @@ Implement the following user story:
 The following image demonstrates the web application's appearance and functionality:
 
 ![Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](https://github.com/lunchtimewhee/challenge_1/blob/main/urban-octo-telegram/Develop/assets/images/01-html-css-git-homework-demo.png)
-!(main/urban-octo-telegram/Develop/assets/images/01-html-css-git-homework-demo.png)
+![Link](./urban-octo-telegram/Develop/assets/images/01-html-css-git-homework-demo.png)

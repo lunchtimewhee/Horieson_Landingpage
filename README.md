@@ -26,5 +26,5 @@ Implement the following user story:
 
 The following image demonstrates the web application's appearance and functionality:
 
-! (./assets/image-1.png)
+! (./assets/01-html-css-git-homework-demo.png)
 
